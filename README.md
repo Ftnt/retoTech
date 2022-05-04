@@ -3,7 +3,7 @@
 NodeJs API con Expres - TypeORM (MySQL) \
 API REST documentada con Swagger
 
-##Instalacion
+## Instalacion
 
 Clonamos el repositorio
 
@@ -21,7 +21,7 @@ Ejecutamos el programa en modo dev con el comando
 
 `$ npm run dev`
 
-##Consideraciones
+## Consideraciones
 
 - La api trabaja en el puerto 3001 (Lo puede modificar)
 - TypeOrm está configurado con Mysql
